@@ -50,7 +50,7 @@ keepassxc 2.6.4-1
 liberica-jdk-full-bin 15.0.2+10-1
 libreoffice-fresh 7.1.1-1
 libtool 2.4.6+42+gb88cebd5-14
-linux 5.11.9.arch1-1
+linux 5.11.10.arch1-1
 linux-firmware 20210315.3568f96-1
 m4 1.4.18-3
 make 4.3-3
