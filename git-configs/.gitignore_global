@@ -1,0 +1,22 @@
+**/*.zip
+
+# latex files
+**/*.pdf
+**/*.dvi
+**/*.aux
+**/*.log
+**/*.out
+**/*.toc
+**/*.fls
+
+# java
+**/*.class
+**/*.jar
+
+# js
+**/build/
+**/node_modules/
+
+# python
+**/__pycache__/
+**/key.txt

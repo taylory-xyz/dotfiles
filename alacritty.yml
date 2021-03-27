@@ -1,0 +1,99 @@
+## from https://github.com/alacritty/alacritty/blob/master/alacritty.yml
+
+env:
+  TERM: alacritty
+
+title: Alacritty
+
+window.dynamic_title: true
+
+class:
+instance: Alacritty
+general: Alacritty
+
+gtk_theme_variant: None
+
+font:
+  normal:
+    family: Iosevka
+    style: Regular
+  size: 18
+
+selection:
+   text: CellBackground
+   background: CellForeground
+search:
+   matches:
+   	foreground: '#000000'
+   	background: '#ffffff'
+   focused_match:
+        foreground: CellBackground
+        background: CellForeground
+bar:
+   background: '#c5c8c6'
+   foreground: '#1d1f21'
+background_opacity: 1.0
+
+#selection:
+  # This string contains all characters that are used as separators for
+  # "semantic words" in Alacritty.
+  #semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
+
+  # When set to `true`, selected text will be copied to the primary clipboard.
+  #save_to_clipboard: false
+
+cursor:
+  style: Beam
+  vi_mode_style: Underline
+  blinking: on
+  blink_interval: 1000
+  unfocused_hollow: true
+
+shell:
+  program: /bin/bash
+
+working_directory: None
+
+mouse:
+  hide_when_typing: true
+  url:
+    launcher:
+      program: xdg-open
+      args: []
+
+# Base16 Eighties - alacritty color config
+# Chris Kempson (http://chriskempson.com)
+colors:
+  # Default colors
+  primary:
+    background: '0x2d2d2d'
+    foreground: '0xd3d0c8'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x2d2d2d'
+    cursor: '0xd3d0c8'
+
+  # Normal colors
+  normal:
+    black:   '0x2d2d2d'
+    red:     '0xf2777a'
+    green:   '0x99cc99'
+    yellow:  '0xffcc66'
+    blue:    '0x6699cc'
+    magenta: '0xcc99cc'
+    cyan:    '0x66cccc'
+    white:   '0xd3d0c8'
+
+  # Bright colors
+  bright:
+    black:   '0x747369'
+    red:     '0xf99157'
+    green:   '0x393939'
+    yellow:  '0x515151'
+    blue:    '0xa09f93'
+    magenta: '0xe8e6df'
+    cyan:    '0xd27b53'
+    white:   '0xf2f0ec'
+
+draw_bold_text_with_bright_colors: false
