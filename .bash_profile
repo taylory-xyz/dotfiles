@@ -1,6 +1,6 @@
 # ~/.bash_profile
 
-~/./on.sh
+~/.dotfiles/scripts/./on.sh
 
 startx
 
