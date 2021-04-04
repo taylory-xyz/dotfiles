@@ -31,23 +31,17 @@ mkdir ~/.config/alacritty && \
 	echo 'alacritty ==> success!' || echo 'alacritty ==> failed :('
 
 ### set up scripts
-ln -s ~/.dotfiles/scripts/on.sh ~/on.sh && \
-	chmod +x ~/.dotfiles/scripts/on.sh && \
+chmod +x ~/.dotfiles/scripts/on.sh && \
 	echo 'script: on ==> success!' || echo 'script: on ==> failed :('
-ln -s ~/.dotfiles/scripts/off.sh ~/off.sh && \
-	chmod +x ~/.dotfiles/scripts/off.sh && \
+chmod +x ~/.dotfiles/scripts/off.sh && \
 	echo 'script: off ==> success!' || echo 'script: off ==> failed :('
-ln -s ~/.dotfiles/scripts/texmk.sh ~/texmk.sh && \
-	chmod +x ~/.dotfiles/scripts/texmk.sh && \
+chmod +x ~/.dotfiles/scripts/texmk.sh && \
 	echo 'script: texmk ==> success!' || echo 'script: texmk ==> failed :('
-ln -s ~/.dotfiles/scripts/create.sh ~/create.sh && \
-	chmod +x ~/.dotfiles/scripts/create.sh && \
+chmod +x ~/.dotfiles/scripts/create.sh && \
 	echo 'script: create ==> sucess!' || echo 'script: create ==> failed :('
-ln -s ~/.dotfiles/scripts/scanned_pdf.sh ~/scanned_pdf.sh && \
-	chmod +x ~/.dotfiles/scripts/scanned_pdf.sh && \
+chmod +x ~/.dotfiles/scripts/scanned_pdf.sh && \
 	echo 'script: scanned_pdf ==> success!' || echo 'script: scanned_pdf ==> failed :('
-ln -s ~/.dotfiles/scripts/commit.sh ~/commit.sh && \
-	chmod +x ~/.dotfiles/scripts/commit.sh && \
+chmod +x ~/.dotfiles/scripts/commit.sh && \
 	echo 'script: commit ==> success!' || echo 'script: commit ==> failed :('
 
 ### set up git

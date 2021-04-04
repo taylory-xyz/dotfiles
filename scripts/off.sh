@@ -8,7 +8,7 @@ message="[${fmtdate}]"
 cd ~/learn
 	git add -A
 	git status
-	~/./commit.sh || echo "learn failed :("
+	~/.dotfiles/scripts/./commit.sh || echo "learn failed :("
 sleep 2
 
 echo 'y' | sudo pacman -Sc
@@ -24,7 +24,7 @@ cd ~/.dotfiles
 	pip list --not-required >> ~/.dotfiles/packages.txt
 	git add -A
 	git status
-	~/./commit.sh || echo "dotfiles failed :("
+	~/.dotfiles/scripts/./commit.sh || echo "dotfiles failed :("
 sleep 2
 
 sync
