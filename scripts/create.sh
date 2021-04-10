@@ -4,6 +4,7 @@ echo -e "\nwhat type of file do you want to create?"
 echo -e "\t1: html"
 echo -e "\t2: tex (self-notes)"
 echo -e "\t3: javafx build.gradle"
+echo -e "\t4: markdown"
 
 read filetype
 
@@ -23,4 +24,8 @@ fi
 
 if [ $filetype -eq "3" ]; then
 	curl "${root}/fx-build.gradle" > $1
+fi
+
+if [ $filetype -eq "4" ]; then
+	curl "${root}/metadata.md" > $1
 fi
