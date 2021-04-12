@@ -8,7 +8,7 @@ echo -e "\t5: override"
 read option
 
 create_message() {
-	echo -e "[$(date +%m/%d)] $type\n" >| ~/.gitmessage.txt
+	echo -e "[$(date +%m/%d)] $type" >| ~/.gitmessage.txt
 	git commit
 	git push
 }

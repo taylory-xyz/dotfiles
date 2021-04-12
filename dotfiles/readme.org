@@ -1,3 +1,0 @@
-#+title: dotfiles
-
-This is where I'll be putting my configuration files, run scripts/./config.sh to create symlinks.
