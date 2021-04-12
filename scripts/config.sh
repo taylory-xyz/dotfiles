@@ -48,7 +48,7 @@ chmod +x ~/.dotfiles/scripts/commit.sh && \
 ln -s ~/.dotfiles/git-configs/.gitignore_global ~/.gitignore_global && \
 ln -s ~/.dotfiles/git-configs/.gitmessage.txt ~/.gitmessage.txt && \
 git config --global user.name "taylor y" && \
-git config --global user.email "64106592+taylory-xyz@users.noreply.github.com" && \
+git config --global user.email "64106592+tayleyi@users.noreply.github.com" && \
 git config --global pull.rebase false && \
 git config --global fetch.prune true && \
 git config --global core.editor vim && \
