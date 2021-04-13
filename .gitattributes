@@ -1,0 +1,3 @@
+**/*.sh eol=lf
+**/.bashrc eol=lf
+**/.vimrc eol=lf

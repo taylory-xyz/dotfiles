@@ -1,0 +1,3 @@
+rundll32.exe sysdm.cpl,EditEnvironmentVariables
+
+# paste line 1 to make the shortcut to EditEnvironmentVariable

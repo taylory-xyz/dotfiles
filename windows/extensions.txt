@@ -1,0 +1,5 @@
+cweijan.vscode-office
+firefox-devtools.vscode-firefox-debug
+jolaleye.horizon-theme-vscode
+tonybaloney.vscode-pets
+vscodevim.vim
