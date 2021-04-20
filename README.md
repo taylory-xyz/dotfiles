@@ -1,4 +1,4 @@
-# dotfiles: getting started
+# getting started
 
 ### Clone the repository in a `.dotfiles` directory:
 `git clone https://github/tayleyi/dotfiles .dotfiles`
@@ -11,8 +11,8 @@
 ```
 $ ln -s /cygdrive/c/Users/taylor/.dotfiles/windows/.bashrc /home/taylor/.bashrc
 $ source ~/.bashrc
-$ cd ~
-$ cp ./dotfiles/windows/.vimrc .vimrc
+$ cp ~/.dotfiles/windows/.vimrc ~/.vimrc
+$ cp ~/.dotfiles/.gitconfig ~/.gitconfig
 ```
 
 ---
