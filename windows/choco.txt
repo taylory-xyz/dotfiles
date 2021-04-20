@@ -1,24 +1,19 @@
 Chocolatey v0.10.15
-2 validations performed. 1 success(es), 1 warning(s), and 0 error(s).
-
-Validation Warnings:
- - A pending system reboot request has been detected, however, this is
-   being ignored due to the current command being used 'list'.
-   It is recommended that you reboot at your earliest convenience.
-
 chocolatey 0.10.15
 chocolatey-core.extension 1.3.5.1
 chocolatey-dotnetfx.extension 1.0.1
 chocolatey-windowsupdate.extension 1.0.4
 Cygwin 3.2.0
+dart-sdk 2.12.4
 docker-cli 19.03.12
 DotNet4.5.2 4.5.2.20140902
 dotnetfx 4.8.0.20190930
-Firefox 87.0
+Firefox 88.0
 git 2.31.1
 git.install 2.31.1
 github-desktop 2.7.2
-hugo 0.82.0
+gradle 7.0.0
+hugo 0.82.1
 iTunes 12.11.0.26
 jdk8 8.0.211
 KB2919355 1.0.20160915
@@ -27,15 +22,18 @@ KB2999226 1.0.20181019
 KB3033929 1.0.5
 KB3035131 1.0.3
 keepassxc 2.6.4
+msys2 20210419.0.0
 netbeans 8.2.20171030
 nodejs 15.14.0
 nodejs.install 15.14.0
 pandoc 2.13
 python3 3.9.4
+ruby 3.0.1.1
 rufus 3.13
-vcredist140 14.28.29913
+sass 1.32.11
+vcredist140 14.28.29914
 vcredist2015 14.0.24215.20170201
-vscode 1.55.1
-vscode.install 1.55.1
+vscode 1.55.2
+vscode.install 1.55.2
 zoom 5.6.1.61701
-32 packages installed.
+37 packages installed.
