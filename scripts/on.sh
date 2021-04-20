@@ -1,9 +1,7 @@
 #!/bin/bash
 
 sudo pacman -Syu
-yay -Syu
-
-sudo npm update -g
+yay
 
 cd ~/learn
 	git pull && echo "learn updated"
