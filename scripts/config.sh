@@ -72,15 +72,16 @@ report $? 'script: commit'
 
 ### set up git
 touch ~/.gitmessage.txt && \
-git config --global commit.template ~/.gitmessage.txt && \
-git config --global user.name "taylor yang" && \
-git config --global user.email "64106592+tayleyi@users.noreply.github.com" && \
-git config --global pull.rebase false && \
-git config --global fetch.prune true && \
-git config --global core.editor vim && \
-git config --global core.excludesfile ~/.dotfiles/.gitignore_global && \
-git config --global help.autocorrect 50 && \
-git config --global core.autocrlf input
+cp ~/.dotfiles/.gitconfig ~/.gitconfig
+# git config --global commit.template ~/.gitmessage.txt && \
+# git config --global user.name "taylor yang" && \
+# git config --global user.email "64106592+tayleyi@users.noreply.github.com" && \
+# git config --global pull.rebase false && \
+# git config --global fetch.prune true && \
+# git config --global core.editor vim && \
+# git config --global core.excludesfile ~/.dotfiles/.gitignore_global && \
+# git config --global help.autocorrect 30 && \
+# git config --global core.autocrlf input
 report $? 'git'
 
 # nerd fonts: Iosevka, VictorMono, FiraCode, Space Mono, Ubuntu Mono, Fira Mono, Monoid
