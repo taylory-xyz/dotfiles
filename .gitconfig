@@ -1,0 +1,15 @@
+[commit]
+   template = ~/.gitmessage.txt
+[user]
+   name = taylor yang
+   email = 64106592+tayleyi@users.noreply.github.com
+[pull]
+   rebase = false
+[fetch]
+   prune = true
+[core]
+   editor = vim
+   excludesfile = ~/.dotfiles/.gitignore_global
+   autocrlf = input
+[help]
+   autocorrect = 30
