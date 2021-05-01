@@ -1,4 +1,0 @@
-C:\Users\taylor\AppData\Roaming\npm
-├── alex@9.1.0
-└── vercel@21.3.3
-
