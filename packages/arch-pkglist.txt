@@ -1,5 +1,8 @@
 alacritty
 alsa-utils
+ant
+arduino
+arduino-cli
 autoconf
 automake
 base
@@ -19,6 +22,7 @@ findutils
 firefox
 flameshot
 flex
+fzf
 gawk
 gcc
 gettext
@@ -35,6 +39,7 @@ i3-wm
 i3blocks
 i3status
 jdk-openjdk
+junit
 keepassxc
 libreoffice-fresh
 libtool
@@ -44,6 +49,7 @@ m4
 make
 man-db
 man-pages
+ncdu
 networkmanager
 nodejs
 npm

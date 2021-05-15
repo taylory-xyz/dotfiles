@@ -1,11 +1,4 @@
-/usr/lib
-├── alex@9.1.0
-├── expo-cli@4.4.3
-├── expo@41.0.1
-├── heroku@7.52.0
-├── node-gyp@8.0.0
-├── npm@7.10.0
-├── semver@7.3.5
-├── vercel@21.3.3
-└── yarn@1.22.10
+/home/taylor/.nvm/versions/node/v14.16.1/lib
+├── npm@6.14.13
+└── rollup@2.48.0
 
