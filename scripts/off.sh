@@ -5,12 +5,6 @@ echo "running shutdown script..."
 fmtdate="$(date +%m/%d)"
 message="[${fmtdate}]"
 
-cd ~/.dotfiles
-	git add -A
-	git status
-	~/.dotfiles/scripts/./commit.sh || echo "dotfiles failed :("
-sleep 2
-
 read -p "do you want to sc?    " reply
 if [[ $reply == "y" ]]; then
 	echo 'y' | sudo pacman -Sc
