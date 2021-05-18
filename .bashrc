@@ -29,5 +29,5 @@ eval "$(thefuck --alias)"
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin:$HOME/.local/bin"
 export github="git@github.com:tayflower"
-export gitlab="git@gitlab.com:tayleyi"
+export gitlab="git@gitlab.com:tayflower"
 source /usr/share/nvm/init-nvm.sh

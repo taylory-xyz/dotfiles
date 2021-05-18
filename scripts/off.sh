@@ -13,6 +13,7 @@ fi
 
 read -p "do you want to update pip?     " reply
 if [[ $reply == "y" ]]; then
+	# pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U
 	for i in $(pip list -o | awk 'NR > 2 {print $1}')
 		do sudo pip install -U $i
 	done

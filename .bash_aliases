@@ -20,7 +20,7 @@ alias :x='cd ..'
 alias chown='sudo chown'
 
 dl-music() {
-	youtube-dl -x --audio-format mp3 "$1"
+	youtube-dl -x --audio-format mp3 "$1" -o "%(title)s - %(uploader)s.%(ext)s"
 }
 
 tldr() {
