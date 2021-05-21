@@ -12,7 +12,8 @@ if [ -f ~/.bash_aliases ]; then
 	. ~/.bash_aliases
 fi
 
-setxkbmap -option caps:escape_shifted_capslock
+# setxkbmap -option caps:escape_shifted_capslock
+setxkbmap -option caps:swapescape
 
 ## backup command: (from /home)
 ##		sudo zip -r sdb/[date].zip taylor/* -r

@@ -89,7 +89,7 @@ assign [class="KeePassXC"] $ws1
 
 
 exec_always feh --bg-scale /home/taylor/pictures/tangchilee-skyline.jpg
-exec_always setxkbmap -option caps:escape_shifted_capslock
+exec_always setxkbmap -option caps:swapescape
 
 bar {
 	status_command i3status

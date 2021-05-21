@@ -56,10 +56,6 @@ working_directory: None
 
 mouse:
   hide_when_typing: true
-  url:
-    launcher:
-      program: xdg-open
-      args: []
 
 # Base16 Eighties - alacritty color config
 # Chris Kempson (http://chriskempson.com)
