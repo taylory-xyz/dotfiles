@@ -12,6 +12,7 @@ chromium
 cmus
 code
 cups
+cups-pdf
 dhcpcd
 docker
 efibootmgr
@@ -88,6 +89,7 @@ texlive-publishers
 texlive-science
 thefuck
 unzip
+vi
 vim
 vlc
 which

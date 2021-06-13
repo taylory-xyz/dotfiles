@@ -1,7 +1,7 @@
 alias ls='exa --color=auto -alF'
 alias list='\ls --color=auto'
 alias tree='exa --tree'
-alias add='git add -A && git status && alex *'
+alias add='git add -A && git status && git branch-status'
 alias df='df -h /dev/sda2'
 alias ping='ping -c 1'
 alias off='~/.dotfiles/scripts/./off.sh'
