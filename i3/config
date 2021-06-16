@@ -76,17 +76,13 @@ set $ws6 "| six |"
 set $ws7 "| seven |"
 set $ws8 "| eight |"
 
-bindsym $mod+s exec --no-startup-id ~/.config/i3/scripts/empty_workspace.sh
-
 # Autostart apps
-exec --no-startup-id i3-msg 'workspace "| three |"; exec firefox; workspace "| two |"; exec alacritty'
+exec --no-startup-id i3-msg 'workspace "| three |"; exec firefox; exec chromium --guest; workspace "| two |"; exec alacritty'
 exec --no-startup-id flameshot
-exec --no-startup-id emacs ~/learn/agenda.org
 exec --no-startup-id keepassxc
 exec --no-startup-id redshift -l 36:-79
 assign [class="KeePassXC"] $ws1
 # xprop to find class
-
 
 exec_always feh --bg-scale /home/taylor/pictures/tangchilee-skyline.jpg
 exec_always setxkbmap -option caps:swapescape

@@ -1,0 +1,243 @@
+ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
+www.mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.htm://mitpress.mit.edu/sites/default/files/sicp/index.html
+www.scheme.com/tspl4/
+www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+
+ad hominem (in politics, "mud-slinging")		attacking an opponent's motive or character instead of their stance on the issue
+begging the question		presenting a debatable premise as if it were fact
+either/or fallacy		asserting that a situation can have only two possible outcomes
+generalization		reaching a conclusion based on insufficient evidence
+misleading statistics		use of statistical evidence with the intent to mislead
+non sequitur		a statement that does not follow logically from what preceded it
+oversimplification		providing a naively simple solution to a complex problem
+post hoc ergo propter hoc / post hoc / "association is causation" fallacy		assuming an earlier event caused a later event, even when there may be no connection at all
+red herring		a distracter; draws attention from the real issue
+slippery slope		an argument that says adopting one policy or taking one action will lead to a series of other policies or actions also being taken, without showing a causal connection between the advocated policy and the consequent policies
+straw man		refuting a caricatured or extreme version of somebody's argument, rather than the actual argument they've made
+SPACE CAT
+Speaker
+Purpose
+Audience
+Context
+Exigence
+Choices
+Appeal (ethos, pathos, logos)
+Tone
+
+
+PASTA
+Purpose
+Audience
+Subject(s)
+Tone
+Author’s Bias (POV/Stance)
+
+Banned Words
+quote / this quote shows
+uses / use of / usage of / utilize
+really / very
+clearly 
+the reader / you
+totally / completely
+impactfully / effectively / skillfully
+message  I’m
+sort of / kind of
+basically 
+actually 
+get / got
+being (at the beginning of a sentence)
+helps to / aids
+
+Vocabulary
+claim -
+evidence - 
+reasoning - 
+
+Purpose - 
+DO NOT SAY (these lead to a summary of ideas, but not why)
+to tell
+explain
+assert
+let people know
+convey
+USE
+to persuade / convince / to argue / to promote / advertise
+to acknowledge / to concede / to expose / to divulge / to bring to life / to publicicize
+to inform (a little like tell, but slightly stronger)
+to establish / to define
+to warn / to threaten
+to instill
+
+When putting sources in conversations with each other:
+echo
+contend
+parallel
+remind
+reference
+concede 
+acknowledge
+agree / disagree
+dispute
+deny 
+suggest
+believe
+claim
+question
+urge
+insist
+refute
+complain
+affirm
+argue 
+whereas
+
+
+
+
+To convince
+To inform
+To motivate
+To define
+To compare/contrast
+To draw distinctions
+To rally
+To warn
+To incite
+To encourage
+To discourage
+To enlighten
+To threaten
+To scare
+To inspire
+To trace causes
+To identify effects
+To narrate
+To describe
+To prove
+To classify
+To expose
+To honor
+To praise
+To condemn
+To mock
+To justify
+To explain
+To assess
+To evaluate
+To validate
+To affirm
+To highlight
+To urge
+To accuse
+To soothe
+To bear witness
+To call to action
+Types of Reasoning
+inductive - moving from specific evidence (e.g. case studies, etc) to a general conclusion
+car ownership based on experience (if you’ve had three Toyotas, all with a good experience, then you can conclude Toyotas are good cars)
+the scientific method
+deductive - applying a general conclusion/principle to a specific situation
+syllogism - major premise + minor premise = conclusion
+if exercise is good for you, and hiking is exercise, then hiking is good for you
+
+Terms
+metonymy - using one object to represent something it is closely associated with
+The British Crown, the White House said…
+anaphora
+Chiasmus
+
+
+Rhetorical Analysis Essays
+Conclusions
+look outward: make real-world connections
+consider author's theme/purpose
+use a long sentence that builds structurally and also in ideas
+use antithesis/parallelism to create a sense of closure
+use a quote/simile/metaphor to capture the essence of your argument
+use a quote/address an unanswered question; use "maybe" or "perhaps" to offer a nuanced answer
+Body Paragraphs
+main idea/ focus of body paragraphs; should be analytical, making a claim about some aspect of the book
+more than 8 sentences in a body paragraph is usually too long
+relationship between ideas in the paragraphs: how do they build (chronologically? 1st/2nd/3rd, are ideas equal? diction/syntax/tone, what is the relationship (what creates what)?)
+transition words/phrases (first/second/third - numerical, also/additionally/furthermore - another thing, however/nonetheless/yet - contrast, indeed/ultimately/for - emphasis); remember, you can also link the idea of the previous paragraph to the next one
+quotes - 2-4 word quotes are most powerful; sentences with quotes also contain analysis
+new/interesting connections to your thesis at the end of each paragraph; assume the reader is smart; what new ideas can you develop as your essay builds in complexity (what facets of your thesis can you explore more in-depth? ask yourself HOW and WHY of claims you make)?
+
+
+Theses Formulas
+Through (device) and (device), (author) (strong purpose verb)
+Though metaphorical language and repetition, John Winthrop warns… 
+In a (characterize text), (author) (tone adverb) (strong purpose verb)
+In a rebuke of American culture, John Steinbeck scathingly exposes… 
+Author (blends/juxtaposes/invokes) (device) and (device) to
+Greil Marcus blends Puritan history and pop culture references to trace the lineage of American exceptionalism.
+- [Julia Express pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
+- [wikibooks](https://en.wikibooks.org/wiki/Introducing_Julia)
+- [learn julia the hard way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way)
+- [julia mit](https://github.com/mitmath/julia-mit)
+- [computational thinking w/julia, covid edition](https://github.com/mitmath/6S083)
+- [uci data science julia](https://github.com/UCIDataScienceInitiative/IntroToJulia)
+- [stats with julia](https://github.com/h-Klok/StatsWithJuliaBook)
+
+
+## Guides
+- [Getting Started](https://gettingstarted.ml/)
+- [overview](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
+- [getting started (resources)](https://e2eml.school/machine_learning_resources.html)
+- [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
+## Theory
+- [Data Science, Steven Skiena from StonyBrook](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo)
+- [caltech telecourse](https://work.caltech.edu/telecourse.html)
+- [cs 540 - intro to ai](http://pages.cs.wisc.edu/~dyer/cs540/notes-toc.html)
+- [artifical intelligence for computational sustainability](https://en.wikibooks.org/wiki/Artificial_Intelligence_for_Computational_Sustainability:_A_Lab_Companion/Introduction)
+- [cornell cs4780](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+- [Graphical models](http://ai.stanford.edu/~paskin/gm-short-course/index.html)
+- [MIT Deep learning](https://www.youtube.com/watch?v=njKP3FqW3Sk)
+- [Deep Learning Book](https://www.deeplearningbook.org/)
+- [probabilistic machine learning](https://probml.github.io/pml-book/book1.html)
+- [design and analysis of algorithms](https://www.eecs.yorku.ca/~jeff/courses/3101/syllabus/), [advanced algorithm design and analysis](https://www.eecs.yorku.ca/~jeff/courses/6111/syllabus/)
+## Ethics
+- [data ethics](https://ethics.fast.ai/)
+- [logic at stanford](http://intrologic.stanford.edu/public/home.php)
+- [Computers and Thought: A practical Introduction to Articial Intelligence](https://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)
+## Resources
+- [computational sustainability resources](https://www.cs.ubc.ca/~mack/ComputationalSustainabilityResources/)
+- [arxiv sanity preserver](http://www.arxiv-sanity.com/toptwtr)
+- [Deep learning drizzle](https://deep-learning-drizzle.github.io)
+- [machine learning glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+## Practice
+- [dive into deep learning](https://d2l.ai/index.html)
+- [MLU](https://www.youtube.com/watch?v=NkSIeV-WAxg)
+- [Tubingen](https://www.youtube.com/watch?v=lWGdFeMsjzg)
+- [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [Computational Intelligence](https://www.cs.ubc.ca/~poole/ci.html), [AI resources](https://www.cs.ubc.ca/~poole/ci/ai-resources.html)
+- Datasets:
+	- r/datasets
+	- https://datasetsearch.research.google.com
+## Sites of Interest
+- [compsustnet](https://www.compsust.net/publications.php)
+- [mit rle videos](https://www.rle.mit.edu/eems/publications/tutorials/)
+- [ml x art](https://mlart.co/)
+- [humans of ai](https://www.cc.gatech.edu/~parikh/humanstoriesai/)
+- [trustworthy ml](https://www.trustworthyml.org/resources)
+- [harvard teamcore](https://teamcore.seas.harvard.edu/lectures)
+## Classes
+- [Columbia cs4701](http://www.cs.columbia.edu/~kathy/cs4701/syllabus.html)
+- [Duke CPS 170](https://www2.cs.duke.edu/courses/spring09/cps170/)
+- [Nottingham G5BAIM](http://www.cs.nott.ac.uk/~pszgxk/courses/g5baim/)
+- [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+
+
+Don't repeat yourself (dry)
+Keep it simple stupid (kiss)
+premature optimization is the root of all evil
+tell, don't ask (tda)
+law of demeter
+separation of concerns
+single responsibility principle (srp)
+open closed principle (ocp)
+liskov substitution principle (lsp)
+interface segregation principle (isp)
+dependency inversion principle (dip)
+

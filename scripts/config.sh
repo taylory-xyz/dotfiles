@@ -74,7 +74,8 @@ report $? 'script: scannedpdf'
 chmod +x ~/.dotfiles/scripts/commit.sh 
 report $? 'script: commit'
 
-
+git clone https://github.com/alexdavid/git-branch-status.git
+sudo cp git-branch-status/git-branch-status /usr/local/bin
 
 ### set up git
 touch ~/.gitmessage.txt && \
