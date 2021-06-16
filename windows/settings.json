@@ -36,11 +36,11 @@
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.cursorStyle": "line",
 	"workbench.panel.defaultLocation": "right",
-	"workbench.editorAssociations": [
-		{
-			"viewType": "jupyter.notebook.ipynb",
-			"filenamePattern": "*.ipynb"
-		}
-	],
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
 		"workbench.colorTheme": "Horizon Bright",
+		"arduino.additionalUrls": [
+			"http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+		],
 }

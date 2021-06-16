@@ -1,9 +1,17 @@
+af4jm.vscode-icalendar
 benawad.VSinder
 firefox-devtools.vscode-firefox-debug
 jolaleye.horizon-theme-vscode
+ms-dotnettools.vscode-dotnet-runtime
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
 ms-vscode.cpptools
+octref.vetur
+sergey-tihon.openxml-explorer
 svelte.svelte-vscode
 tonybaloney.vscode-pets
+VisualStudioExptTeam.vscodeintellicode
 vsciot-vscode.vscode-arduino
 vscodevim.vim
 WallabyJs.quokka-vscode
