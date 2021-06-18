@@ -1,5 +1,6 @@
 alacritty
 alsa-utils
+anki
 ant
 arduino
 arduino-cli
@@ -70,6 +71,7 @@ redshift
 rofi
 rsync
 ruby
+sassc
 sed
 sudo
 surge

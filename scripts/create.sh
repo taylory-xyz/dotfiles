@@ -1,5 +1,9 @@
 #!/bin/bash
 
+if [[ $1 == "" ]]; then
+	git commit -m "[$(date +%m/%d)] creation]"
+fi
+
 echo -e "\nwhat type of file do you want to create?"
 echo -e "\t1: html"
 echo -e "\t2: tex (self-notes)"
