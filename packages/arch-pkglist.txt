@@ -99,3 +99,4 @@ xclip
 xorg-server
 xorg-xinit
 xorg-xrandr
+zip
