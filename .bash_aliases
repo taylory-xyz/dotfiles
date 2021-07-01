@@ -1,4 +1,4 @@
-alias ls='exa --color=auto -alF'
+alias ls='exa --color=auto --sort=type -alF'
 alias list='\ls --color=auto'
 alias tree='exa --tree'
 alias add='git add -A && git status && git branch-status'
@@ -15,6 +15,7 @@ alias clone='git clone'
 alias sqlite='sqlite3'
 alias fonts='fc-list'
 alias sql='sudo -iu postgres'
+alias hugod='hugo server -D --disableFastRender --environment "dev"'
 alias :q='cd ..'
 alias :x='cd ..'
 # sudo chown -R 1000:998 "/root/.npm"

@@ -16,10 +16,12 @@ cups
 cups-pdf
 dhcpcd
 docker
+docker-compose
 efibootmgr
 emacs
 exa
 fakeroot
+fcitx-chewing
 file
 findutils
 firefox
@@ -46,6 +48,7 @@ junit
 keepassxc
 libreoffice-fresh
 libtool
+liferea
 linux
 linux-firmware
 m4
